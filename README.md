@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Shaheer Ahmad
 
-You can use the [editor on GitHub](https://github.com/Infanax/Infanax.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+An undergraduate in Maynooth University, I pride myself on my competitive personality and the aspiration to improve myself in all aspects. I possess an innate ability to perceive situations differently and analytically. I am now pursuing a double major accelerated degree in Computer Science and Pure Mathematics.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Project Bulls And Cows
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This was the first step on my journey of game development in Unreal and C++
 
 ```markdown
 Syntax highlighted code block
